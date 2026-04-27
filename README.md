@@ -15,13 +15,6 @@
 
 ---
 
-### 🪄 Minhas Contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/snake-final.svg?v=27042026" alt="Cobra Verde Animada" />
-</div>
-
----
-
 ### 💻 Desenvolvimento Técnico: Help Desk Pro
 
 Projeto focado em infraestrutura e lógica Back-end, onde aplico:
@@ -51,6 +44,17 @@ Projeto focado em infraestrutura e lógica Back-end, onde aplico:
   <a href="mailto:marcos.lima@cs.unipe.edu.br">
     <img src="https://img.shields.io/badge/Email-marcos.lima@cs.unipe.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
   </a>
+</div>
+
+---
+
+### 🪄 Snake Game (Contribuições)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br />
