@@ -15,10 +15,14 @@
 
 ---
 
+---
+
 ### 🪄 Minhas Contribuições
 <div align="center">
-  <img src="https://github.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/blob/output/cobra-verde.svg?raw=true" alt="Minhas Contribuições Animadas" />
+  <img src="https://github.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Minhas Contribuições Animadas" />
 </div>
+
+---
 
 ---
 
