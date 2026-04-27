@@ -15,14 +15,10 @@
 
 ---
 
----
-
 ### 🪄 Minhas Contribuições
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha" />
+  <img src="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/verde.svg?sanitize=true&v=2" alt="Cobra Verde Animada" />
 </div>
-
----
 
 ---
 
