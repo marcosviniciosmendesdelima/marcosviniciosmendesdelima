@@ -2,7 +2,17 @@
   <h1>Marcos Vinícios</h1>
   <p><b>Estudante de Ciência da Computação (3º Período) • Aspirante a Especialista Back-end</b></p>
   
-  <p>Em constante evolução na construção de sistemas escaláveis, aplicando conceitos de <b>Full Cycle Development</b> para dominar todas as etapas de um projeto. Meu foco principal é a arquitetura Back-end, utilizando o desenvolvimento de interfaces apenas como ferramenta para viabilizar soluções completas.</p>
+  <p>Em constante evolução nos estudos para a construção de sistemas escaláveis, aplicando conceitos de <b>Full Cycle Development</b> para dominar todas as etapas de um projeto. Meu foco principal é a arquitetura Back-end, utilizando o desenvolvimento de interfaces apenas como ferramenta para viabilizar soluções completas.</p>
+</div>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,mysql,postgres,docker,linux,github,vscode&theme=dark" alt="Tecnologias Animadas" />
+  </a>
 </div>
 
 ---
