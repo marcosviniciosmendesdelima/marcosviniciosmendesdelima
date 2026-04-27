@@ -17,7 +17,7 @@
 
 ### 🪄 Minhas Contribuições
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/verde.svg?sanitize=true&v=2" alt="Cobra Verde Animada" />
+  <img src="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/snake-final.svg?v=27042026" alt="Cobra Verde Animada" />
 </div>
 
 ---
