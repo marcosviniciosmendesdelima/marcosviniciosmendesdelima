@@ -17,11 +17,7 @@
 
 ### 🪄 Minhas Contribuições
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/contribution-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/contribution-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/contribution-snake.svg">
-  </picture>
+  <img src="https://github.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/blob/output/cobra-verde.svg?raw=true" alt="Minhas Contribuições Animadas" />
 </div>
 
 ---
