@@ -19,7 +19,7 @@
 
 ### 🪄 Minhas Contribuições
 <div align="center">
-  <img src="https://github.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Minhas Contribuições Animadas" />
+  <img src="https://raw.githubusercontent.com/marcosviniciosmendesdelima/marcosviniciosmendesdelima/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha" />
 </div>
 
 ---
