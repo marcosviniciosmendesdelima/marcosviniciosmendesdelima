@@ -2,7 +2,7 @@
   <h1>Marcos Vinícios</h1>
   <p><b>Estudante de Ciência da Computação (3º Período) • Aspirante a Especialista Back-end</b></p>
   
-  <p>Em constante evolução nos estudos para a construção de sistemas escaláveis, aplicando conceitos de <b>Full Cycle Development</b> para dominar todas as etapas de um projeto. Meu foco principal é a arquitetura Back-end, utilizando o desenvolvimento de interfaces apenas como ferramenta para viabilizar soluções completas.</p>
+  <p>Em constante evolução na construção de sistemas escaláveis, aplicando conceitos de <b>Full Cycle Development</b> e a habilidade de <b>Vibe Coding</b>. Atuo no desenvolvimento de software de alta performance instruindo agentes de IA em linguagem natural, delegando o trabalho pesado de digitação e configuração para a máquina, enquanto mantenho o foco estratégico na arquitetura Back-end, padrões de projeto e solidez das regras de negócio.</p>
 </div>
 
 ---
@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,mysql,postgres,docker,linux,github,vscode&theme=dark" alt="Tecnologias Animadas" />
+    <img src="https://skillicons.dev/icons?i=python,php,cs,mysql,postgres,docker,git,postman,vscode,github&theme=dark" alt="Tecnologias Animadas" />
   </a>
 </div>
 
@@ -32,10 +32,6 @@ Projeto focado em infraestrutura e lógica Back-end, onde aplico:
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosviniciosmendesdelima&theme=react&hide_border=true&locale=pt_BR" />
-  
-  <br><br>
-
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciosmendesdelima&layout=donut&theme=react&hide_border=true&hide_title=true&langs_count=8&animate=true" />
 </div>
 
 ---
